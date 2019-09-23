@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_cumtuthongdung"
+        android:iconTint="@color/itemNavigation"
+        android:icon="@drawable/ic_iconcumtuthongdung"
+        android:title="@string/cumtu" />
+
+    <item
+        android:id="@+id/nav_nguphapmeohoc"
+        android:iconTint="@color/itemNavigation"
+        android:icon="@drawable/ic_iconnguphap"
+        android:title="@string/npmh" />
+
+    <item
+        android:id="@+id/nav_mucyeuthich"
+        android:iconTint="@color/itemNavigation"
+        android:icon="@drawable/ic_iconmucyeuthich"
+        android:title="@string/mucyeuthich">
+
+    </item>
+
+    <item
+        android:id="@+id/nav_timkiem"
+        android:iconTint="@color/itemNavigation"
+        android:icon="@drawable/ic_icontimkiem"
+        android:title="@string/timkiem" />
+
+    <item
+        android:id="@+id/nav_caidat"
+        android:iconTint="@color/itemNavigation"
+        android:icon="@drawable/ic_iconcaidatchung"
+        android:title="@string/caidatchung" />
+
+</menu>
